@@ -52,7 +52,7 @@ for c in conjunto:
     print(c)
 
 conjunto.add('Este es otro texto agregado a mi conjunto')
-
+conjunto.add('hola')
 for c in conjunto:
     print(c)
 
