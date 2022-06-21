@@ -3,5 +3,4 @@ for k, v in valores.items():
     print('k=', k, ', v=', v)
 
 
-for num in range(0, 11, 2):
-    print(num)
+
