@@ -1,4 +1,4 @@
-#from  mis_funciones import cubo
+#from mis_funciones import cubo
 
 import mis_funciones
 
