@@ -20,33 +20,33 @@ class Automovil:
 
 
 
-c1 = Automovil('rojo', 20)
-c2 = Automovil('blanco', 35)
+# c1 = Automovil('rojo', 20)
+# c2 = Automovil('blanco', 35)
 
-print(c1.color)
-print(c2.color)
+# print(c1.color)
+# print(c2.color)
 
 
-c1.acelera()
+# c1.acelera()
 
-c2.acelera()
+# c2.acelera()
 
-print(c1.velocidad)
+# print(c1.velocidad)
 
-print(c2.velocidad)
+# print(c2.velocidad)
 
-c1.acelera()
-c2.acelera()
+# c1.acelera()
+# c2.acelera()
 
-print(c1.velocidad)
-print(c2.velocidad)
+# print(c1.velocidad)
+# print(c2.velocidad)
 
-c1.aceleracion=90
-c1.aceleracion=60
+# c1.aceleracion=90
+# c1.aceleracion=60
 
-c1.acelera()
-c2.acelera()
+# c1.acelera()
+# c2.acelera()
 
-print(c1.velocidad)
-print(c2.velocidad)
+# print(c1.velocidad)
+# print(c2.velocidad)
 
